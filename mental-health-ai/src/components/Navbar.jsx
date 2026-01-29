@@ -58,7 +58,6 @@ const Navbar = () => {
                 <a href="#" style={styles.logo}>MindGuard AI</a>
                 <div style={styles.links}>
                     <a href="#features" style={styles.link}>Features</a>
-                    <a href="#analyzer" style={styles.link}>Risk Analysis</a>
                     <a href="#resources" style={styles.link}>Resources</a>
                     <a href="#contact" className="btn btn-primary" style={{ padding: '0.5rem 1.2rem', fontSize: '0.9rem' }}>Get Help</a>
                 </div>
