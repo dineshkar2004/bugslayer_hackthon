@@ -13,7 +13,7 @@ const Features = () => {
             icon: "📊"
         },
         {
-            title: "Privacy First",
+            title: "Post Conditions of Mental Health",
             description: "All analysis is done locally or via encrypted channels. Your data never leaves the secure tunnel.",
             icon: "🔒"
         },
